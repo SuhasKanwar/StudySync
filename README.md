@@ -1,4 +1,7 @@
 # StudySync
+
+![Project_008_StudySync](https://github.com/user-attachments/assets/28965f36-cf6e-4fab-a604-2da6c02143f8)
+
 **StudySync** is an innovative online learning platform designed to simplify education and empower students of all ages. Our platform provides a seamless learning experience with a range of features that enhance student engagement and academic success. The website is designed with a clean, responsive layout to ensure an optimal viewing experience across all devices.
 
 
